@@ -40,3 +40,7 @@ The project also includes the ability to read from and write to files. Users can
 
 The program generates the password according to the user's specifications and evaluates its strength. Here is an example of how the program works:
 
+
+<img width="782" alt="Снимок экрана 2025-02-24 в 23 33 43" src="https://github.com/user-attachments/assets/534edfb6-7e92-4123-8670-52b797c679d5" />
+
+
